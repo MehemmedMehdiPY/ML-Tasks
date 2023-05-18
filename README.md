@@ -13,4 +13,4 @@ pip install scikit-learn
 ## References
 All datasets that were used for practical aims can be found from [kaggle](https://www.kaggle.com/) platform.
 
-One of datasets was taken from another resource - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29)
+One of datasets was exceptionally taken from another resource - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29)
