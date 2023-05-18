@@ -1,6 +1,6 @@
 # Machine Learning Tasks
 
-This repository contains all the tutorial tasks that were presented during the educational course of Artificial Intelligence & Machine Learning conducted by the organization called "BANM TGT" - Baku Higher Oil School Student youth organization.
+This repository contains all the tutorial tasks that were presented during the educational course of Artificial Intelligence & Machine Learning conducted by the organization called "BANM TGT" - Baku Higher Oil School Student Youth Organization.
 
 ## Installation
 
